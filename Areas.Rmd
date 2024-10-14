@@ -20,8 +20,12 @@ if (requireNamespace("thematic"))
 ```
 
 ```{r}
-r <- 0.5
+r <- 0.55
 Area <- pi*r^2
 ```
 
 
+```{r}
+lado <- 3
+Area_cuadrado <- lado^2
+```
