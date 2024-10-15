@@ -29,3 +29,10 @@ Area <- pi*r^2
 lado <- 3
 Area_cuadrado <- lado^2
 ```
+
+```{r}
+base <- 5
+altura <- 2
+Area_triangulo <- base*altura/2
+```
+
