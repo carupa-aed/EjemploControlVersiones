@@ -34,5 +34,6 @@ Area_cuadrado <- lado^2
 base <- 5
 altura <- 2
 Area_triangulo <- base*altura/2
+Area_rectangulo <-  base*altura
 ```
 
